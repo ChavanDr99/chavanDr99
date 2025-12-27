@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=+Computer+Science+Student+%40+VJTI+Mumbai;Java+Developer;Building+Scalable+Software+Systems;Open+Source+Contributor" alt="Typing SVG" />
 </div>
----
 
 <table>
 <tr>
