@@ -1,93 +1,116 @@
-# 👋 Hi, I'm Dipesh Chavan
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dipesh+Chavan+👋;Java+Developer+%7C+Backend+Engineer;Open+Source+Enthusiast;Building+Scalable+and+Reliable+Systems" />
+</div>
 
-🎓 B.Tech Computer Science Student  
-☕ Java Developer | Open Source Enthusiast  
-
----
-
-## 🧑‍💻 About Me
-I am a Computer Science undergraduate with a strong interest in **Java-based backend systems, developer tools, and large-scale open-source software**.
-
-I enjoy working on:
-- Well-structured **Java codebases**
-- **Backend and platform-level systems**
-- Projects that emphasize **clean code, maintainability, and collaboration**
-
-I believe in learning by reading production code, fixing real issues, and improving software incrementally.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChavanDr99&label=Profile%20Views&color=2F81F7&style=flat" />
+  <img src="https://img.shields.io/github/followers/ChavanDr99?label=Followers&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
+I am a **Computer Science undergraduate** with a strong interest in **Java-based backend systems, developer tools, and large-scale open-source software**.
 
-### 💻 Programming Languages
-- **Java** (Primary)
-- C++
-- JavaScript (Basic)
+I enjoy:
+- Working on **production-quality Java codebases**
+- Understanding **system architecture and build pipelines**
+- Improving software through **clean code, testing, and collaboration**
 
-### 📚 Core Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Basic System Design
-- Code Quality & Refactoring
-
-### 🧰 Tools & Technologies
-- Git & GitHub
-- Linux (command-line basics)
-- CI/CD fundamentals
-- Maven / Gradle (basic familiarity)
-
-### 🎯 Areas of Interest
-- Backend Engineering
-- Developer Tools
-- Build Systems & CI/CD
-- Large-Scale Java Applications
+I believe in **learning by contributing**, reading real code, and growing through feedback.
 
 ---
 
-## 🌍 Open Source Involvement
-I actively explore and contribute to open-source projects that focus on **engineering quality and long-term maintainability**, including:
+## 🛠️ Tech Stack
 
-- **:contentReference[oaicite:0]{index=0}**  
-  (automation servers, plugin-based architecture)
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-17+-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-- **:contentReference[oaicite:1]{index=1}**  
-  (Java tools, frameworks, and platform projects)
-
-My contributions typically include:
-- Fixing beginner-friendly issues
-- Improving documentation and tests
-- Understanding project architecture and workflows
-- Gradually contributing to core functionality
-
----
-
-## 🚀 Current Focus
-- Strengthening Java fundamentals through real-world projects
-- Learning how large open-source projects are structured and maintained
-- Writing clean, readable, and well-tested code
-- Improving collaboration and code review skills
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-02303A?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-2F81F7?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📌 Contributor Values
-- Clarity over cleverness
-- Consistent progress over shortcuts
-- Respectful and clear communication
-- Continuous learning through feedback
+## 🔍 Areas of Interest
+- Backend Engineering  
+- Developer Tools & Build Systems  
+- CI/CD & Automation  
+- Large-Scale Java Applications  
 
 ---
 
-## 📊 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChavanDr99&show_icons=true&theme=default)
+## 🌍 Open Source Focus
+I actively explore and contribute to **engineering-driven open-source projects** with emphasis on:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChavanDr99&layout=compact)
+- Code quality & maintainability
+- Tests and documentation
+- Understanding project architecture
+- Long-term, consistent contributions
+
+I prefer projects that value **clarity, review culture, and reliability** over hype.
 
 ---
 
-## 📫 Connect With Me
-- 🔗 GitHub: https://github.com/ChavanDr99
-- 💼 LinkedIn: *(add your LinkedIn profile link here)*
+## 🚀 Featured Projects
+<table align="center">
+<tr>
+  <td align="center" width="50%">
+    <a href="https://github.com/ChavanDr99/mindspring-ai"><b>🧠 MindSpring AI</b></a><br/>
+    Spring Boot based multi-LLM platform<br/>
+    <sub>Java · Spring Boot · Backend</sub>
+  </td>
+  <td align="center" width="50%">
+    <a href="https://github.com/ChavanDr99/studybuddy"><b>🤖 StudyBuddy</b></a><br/>
+    Offline AI learning assistant<br/>
+    <sub>Java · Desktop · Systems</sub>
+  </td>
+</tr>
+</table>
 
 ---
 
-⭐ *Interested in meaningful collaboration and long-term learning through open-source.*
+## 📊 GitHub Stats
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChavanDr99&show_icons=true&theme=default"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChavanDr99&layout=compact"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChavanDr99" />
+</div>
+
+---
+
+## 🌱 Currently Working On
+- Strengthening **core Java and backend fundamentals**
+- Exploring **CI/CD pipelines and build systems**
+- Improving code quality through **testing and refactoring**
+- Learning **system design and large codebase navigation**
+
+---
+
+## 📫 Get in Touch
+<p align="center">
+  <a href="mailto:drchavan_b23@ce.vjti.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/dipesh-chavan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Focused on building reliable software and growing through open-source collaboration.</i>
+</p>
