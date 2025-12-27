@@ -1,11 +1,46 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dipesh+Chavan+👋;Software+Developer+from+Mumbai%2C+India;Backend+%26+Full‑Stack+Enthusiast;Open+Source+%26+Learning‑Focused" />
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChavanDr99&label=Profile%20Views&color=2F81F7&style=flat" />
-  <img src="https://img.shields.io/github/followers/ChavanDr99?label=Followers&style=flat" />
-</p>
+  <!-- Typing Title -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dipesh+Chavan+👋;Software+Developer+from+Mumbai%2C+India;Backend+%26+Full‑Stack+Enthusiast;Open+Source+%26+Learning‑Focused"
+  />
+
+  <!-- Left text + right illustration layout -->
+  <table>
+    <tr>
+      <td style="vertical-align: top; padding-right: 20px;">
+
+        <p>
+          I’m a <b>software developer and CSE undergrad at VJTI, Mumbai</b> with
+          experience building <b>real-world desktop, web, and data‑driven systems</b>
+          in both <b>enterprise (Siemens)</b> and <b>startup</b> environments.
+        </p>
+
+        <ul>
+          <li>🔭 Currently improving in <b>Java & Spring Boot backend</b> and large codebases</li>
+          <li>💡 Interested in <b>reliable systems, clean code, and developer tools</b></li>
+          <li>🤝 Open to collaborating on <b>full‑stack and backend projects</b></li>
+          <li>📫 Reach me at <a href="mailto:drchavan_b23@ce.vjti.ac.in">drchavan_b23@ce.vjti.ac.in</a></li>
+        </ul>
+
+      </td>
+      <td style="vertical-align: top;">
+        <img
+          src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"
+          alt="developer illustration"
+          width="350"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Stats row -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ChavanDr99&label=Profile%20Views&color=2F81F7&style=flat" />
+    <img src="https://img.shields.io/github/followers/ChavanDr99?label=Followers&style=flat" />
+  </p>
+
+</div>
 
 ---
 
