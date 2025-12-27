@@ -127,7 +127,7 @@ I care about:
 *"First, solve the problem. Then, write the code."
 
 <p align="center">
-  <i>Focused on learning, building reliable software, and growing through real-world engineering and open-source collaboration.</i>
+  <i>I enjoy working on real-world developer tools, improving code quality,and collaborating with maintainers through meaningful contributions.</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
