@@ -21,33 +21,7 @@ I enjoy understanding **how systems work internally**, improving code quality, a
 
 ---
 
-## 🎓 Education
-- **B.Tech – Computer Science**  
-  Veermata Jijabai Technological Institute (VJTI), Mumbai (2024–2027)
 
-- **Diploma – Information Technology**  
-  Government Polytechnic Mumbai  
-  **97.17% | 3rd Rank (Maharashtra)**
-
----
-
-## 💼 Experience
-
-### 🏢 Siemens Ltd — Software Developer Intern  
-*Jan 2024 – Aug 2024 | Navi Mumbai*
-- Built automated data management systems for Strategic Product Management teams  
-- Developed Python (PyQt5) desktop tools with **MSSQL integration and Excel exports**  
-- Implemented authentication, role-based access, and inventory tracking  
-- Improved database performance and delivered production-ready internal tools  
-- Systems actively used by **500+ employees**
-
-### 🏢 Softel Technologies Inc. — Software Engineer  
-*Dec 2023 – Jan 2024 | Mumbai*
-- Developed UI and core features for **SolarWinds-related projects**  
-- Improved application stability via testing, refactoring, and bug fixes  
-- Collaborated with clients and engineers for deployment and support  
-
----
 
 ## 🛠️ Tech Stack (Based on Actual Experience)
 
@@ -85,35 +59,6 @@ I enjoy understanding **how systems work internally**, improving code quality, a
 
 ---
 
-## 🚀 Selected Projects
-
-### 🧠 MindSpring AI  
-**Spring Boot · Spring AI · Ollama · OpenAI · React**
-- Unified AI platform with chat, image generation, transcription, and recommendations  
-- Integrated multiple AI providers using Spring AI  
-- Designed scalable backend services with clean APIs  
-
-### 🤖 StudyBuddy – AI Learning Assistant  
-**Electron · Next.js · Ollama**
-- Cross-platform desktop AI tutor  
-- Offline-first learning with local LLMs  
-- RAG-based smart search and persistent sessions  
-
-### 💻 CodeMaster  
-**React · Node.js · MongoDB**
-- Online multi-language compiler (C++, Java, Python)  
-- 150+ problems, learning paths, and discussion forum  
-- Used by **200+ students daily**
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChavanDr99&show_icons=true&theme=default&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChavanDr99&layout=compact&hide_border=true"/>
-</div>
-
----
 
 ## 🌱 Currently Focused On
 - Strengthening **Java & Spring Boot backend development**
