@@ -20,12 +20,6 @@ Building scalable web apps, AI tools, and enterprise solutions. Passionate about
 <table align="center">
 <tr>
   <td align="center">
-    <a href="https://github.com/ChavanDr99/codemaster"><b>💻 CodeMaster</b></a><br>
-    Multi-language IDE + 150+ problems<br>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/><br>
-    <img src="https://img.shields.io/badge/Production-✅-00D4AA?style=flat&logo=verified&logoColor=white"/>
-  </td>
-  <td align="center">
     <a href="https://github.com/ChavanDr99/mindspring-ai"><b>🧠 MindSpring AI</b></a><br>
     Spring Boot + Multi-LLM Hub<br>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/><br>
