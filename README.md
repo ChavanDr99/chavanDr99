@@ -122,7 +122,7 @@ I care about:
 
 <div align="center">
   
-### 💭 Philosophy
+### Philosophy
 
 *"First, solve the problem. Then, write the code."
 
