@@ -1,63 +1,41 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Dipesh Chavan</h1>
+<h3 align="center">Computer Science Student | Java Backend Developer</h3>
 
-  <!-- Typing Title -->
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dipesh+Chavan+👋;Software+Developer+from+Mumbai%2C+India;Backend+%26+Full‑Stack+Enthusiast;Open+Source+%26+Learning‑Focused"
-  />
-
-  <!-- Left text + right illustration layout -->
-  <table>
-    <tr>
-      <td style="vertical-align: top; padding-right: 20px;">
-
-        <p>
-          I’m a <b>software developer and CSE undergrad at VJTI, Mumbai</b> with
-          experience building <b>real-world desktop, web, and data‑driven systems</b>
-          in both <b>enterprise (Siemens)</b> and <b>startup</b> environments.
-        </p>
-
-        <ul>
-          <li>🔭 Currently improving in <b>Java & Spring Boot backend</b> and large codebases</li>
-          <li>💡 Interested in <b>reliable systems, clean code, and developer tools</b></li>
-          <li>🤝 Open to collaborating on <b>full‑stack and backend projects</b></li>
-          <li>📫 Reach me at <a href="mailto:drchavan_b23@ce.vjti.ac.in">drchavan_b23@ce.vjti.ac.in</a></li>
-        </ul>
-
-      </td>
-      <td style="vertical-align: top;">
-        <img
-          src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"
-          alt="developer illustration"
-          width="350"
-        />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Stats row -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ChavanDr99&label=Profile%20Views&color=2F81F7&style=flat" />
-    <img src="https://img.shields.io/github/followers/ChavanDr99?label=Followers&style=flat" />
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChavanDr99&label=Profile%20Views&color=2F81F7&style=flat" />
+</p>
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ## 👨‍💻 About Me
-I am a **Computer Science undergraduate at VJTI, Mumbai** with experience in  
-**building real-world software systems** in both **enterprise (Siemens)** and **startup** settings.
+I am a **Computer Science undergraduate at VJTI, Mumbai**, with experience in  
+**building real-world software systems** across **enterprise (Siemens)** and **startup** environments.
 
 I’ve worked on:
 - production-ready **desktop and web applications**
 - data-driven tools using **Python, SQL, Docker**
-- **full‑stack projects** with React, Node.js and modern databases  
-and I’m **actively growing** in **Java + Spring Boot backend engineering**.
+- **full-stack projects** with React, Node.js and modern databases  
+
+Currently, I am **actively strengthening my Java + Spring Boot backend skills** and learning how large production systems are built and maintained.
 
 I care about:
 - clean, readable code  
 - reliable systems that people actually use  
-- learning from large codebases and contributing back to **open source**
+- learning from real codebases and contributing back to **open source**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -66,7 +44,7 @@ I care about:
 ### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 </p>
@@ -74,55 +52,63 @@ I care about:
 ### ⚙️ Frameworks & Technologies
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 </p>
 
 ### 🧰 Developer Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 </p>
 
 ---
 
 ## 🔍 Current Interests
-- Java and **Spring Boot** backend development (actively learning & practicing)
-- Building **full‑stack apps** with solid engineering fundamentals
-- Understanding and contributing to **large open‑source codebases**
-- Developer tooling, automation, and quality (testing, refactoring, CI/CD)
+- Java & **Spring Boot** backend development  
+- Building **full-stack applications** with strong fundamentals  
+- Understanding **large open-source codebases**  
+- Code quality: testing, debugging, refactoring  
 
 ---
 
-## 🌱 What I’m Working On Right Now
+## 🌱 What I’m Working On
 - Strengthening **core Java** and backend design skills  
-- Reading real project code (Jenkins / Eclipse / other OSS)  
-- Improving **testing, debugging, and code quality** habits  
-- Staying consistent with **open‑source contributions** and side projects  
+- Reading real OSS code (Jenkins, Eclipse, similar projects)  
+- Improving testing & debugging habits  
+- Making **consistent open-source contributions**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChavanDr99&show_icons=true&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChavanDr99&layout=compact&hide_border=true"/>
+</p>
 
 ---
 
 ## 📫 Get in Touch
 <p align="center">
   <a href="mailto:drchavan_b23@ce.vjti.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/drchavan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://codolio.com/profile/Dr_Coder">
-    <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Trying to build software that is reliable, useful in real life, and written with care — and learning a bit more every week.</i>
+  <i>Focused on learning, building reliable software, and growing through real-world engineering and open-source collaboration.</i>
 </p>
